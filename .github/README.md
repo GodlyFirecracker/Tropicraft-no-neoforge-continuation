@@ -20,11 +20,13 @@
 About
 =====
 
-Tropicraft is a [NeoForge](https://neoforged.net/)-based [Minecraft](https://minecraft.net/) mod that adds a tropical dimension into your Minecraft world.
+Tropicraft is a ~[NeoForge](https://neoforged.net/)~-based [Minecraft](https://minecraft.net/) mod that adds a tropical dimension into your Minecraft world.
 
 Founded in 2011, Tropicraft is one of the oldest Minecraft mods still being actively updated.
   
 Explore the dense tropical rainforests, build a sand castle on the vast beaches, or go diving in the deep oceans!
+
+Due to lack of decoration and absence of securitycraft for forge in 1.21,and permitted from the discord server,i will be porting to forge 1.21 under the name of
   
 Installation
 ============
