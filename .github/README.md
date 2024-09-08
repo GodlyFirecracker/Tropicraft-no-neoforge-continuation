@@ -31,7 +31,7 @@ Due to lack of decoration and absence of securitycraft for forge in 1.21,and per
 Installation
 ============
 
-Install the relevant version of [NeoForge](https://neoforged.net/), grab the latest release for your Minecraft version from our [Modrinth](https://modrinth.com/mod/Tropicraft) page, put it into the `mods/` folder, and play!
+Install the relevant version of ~[NeoForge](https://neoforged.net/)~, grab the latest release for your Minecraft version from our [Modrinth](https://modrinth.com/mod/Tropicraft) page, put it into the `mods/` folder, and play!
 
 Screenshots
 ===========
